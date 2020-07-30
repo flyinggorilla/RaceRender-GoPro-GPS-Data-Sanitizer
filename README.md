@@ -51,3 +51,4 @@ MAX_LONGITUDE = 13.6
 * review the corrections and modify the input constants till you have the right level of fixups
 * in the RaceRender GPS data edit mode, reload the GPS data and specify target.csv as the new GPS data input
 
+https://forum.hptuners.com/showthread.php?85804-Invalid-GoPro-GPS-data-after-import-need-auto-correction-and-auto-alignment&p=614919#post614919
